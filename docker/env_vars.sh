@@ -1,0 +1,2 @@
+export REMOTE_USER_PASSWORD=
+export MYSQL_PASSWORD=
